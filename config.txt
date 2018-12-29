@@ -1,6 +1,6 @@
-token=NTE4MTYyOTQxNzM2OTEwODQ5.DwhStA.ghj3x7uvWMERR5P-yqXwwneaE9E
+token=NTE4MTcyNjk5OTk5MjA3NDM1.Dwhq3A.Dy8IDpq33UO6EFuD-2Pm9aTn4Qk
 owner=455331653309562910  
-prefix=1
+prefix=3
 game=Arrow Server
 stayinchannel=true
 songinstatus=true
